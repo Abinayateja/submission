@@ -1,0 +1,14 @@
+{
+  "signature": {
+    "present": false,
+    "confidence": "LOW",
+    "evidence": []
+  },
+  "stamp": {
+    "present": false,
+    "confidence": "LOW",
+    "evidence": []
+  },
+  "final_verdict": "INVALID_DOCUMENT",
+  "invoice_id": "invoice_018"
+}
